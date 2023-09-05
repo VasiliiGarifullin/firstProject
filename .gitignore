@@ -6,7 +6,8 @@
 /.pnp
 .pnp.js
 .eslintrc.js
-
+package-lock.json
+package.json
 # testing
 /coverage
 
